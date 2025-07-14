@@ -1,1 +1,19 @@
-{}
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Juan Pérez",
+      "email": "juan@mail.com"
+    },
+    {
+      "id": 2,
+      "name": "Ana Gómez",
+      "email": "ana@mail.com"
+    },
+    {
+      "id": "34fc",
+      "name": "jero",
+      "email": "jerorrpo@gmail.com"
+    }
+  ]
+}
