@@ -113,4 +113,4 @@ resetCounterBtn.addEventListener("click", () => {
   }, 2000);
 });
 
-fetchUsers();i
+fetchUsers();
