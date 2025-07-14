@@ -105,7 +105,7 @@ resetCounterBtn.addEventListener("click", () => {
   globalInteractionCount = 0;
   localStorage.setItem("interactionCount", globalInteractionCount);
   interactionCounterDisplay.textContent = globalInteractionCount;
-  resetCounterBtn.textContent = "Reiniciado ✅";
+  resetCounterBtn.textContent = "Reiniciado ";
   resetCounterBtn.disabled = true;
   setTimeout(() => {
     resetCounterBtn.innerHTML = `<i class="bi bi-arrow-counterclockwise"></i> Reiniciar contador`;
